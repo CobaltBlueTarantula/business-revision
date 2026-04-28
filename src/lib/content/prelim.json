@@ -2,8 +2,8 @@
 	{
 		"number": "1",
 		"title": "Nature of Business",
+		"slug": "nature-of-business",
 		"color": "text-blue-500",
-		"badgeClass": "bg-blue-50 text-blue-700 border-blue-200 dark:bg-blue-950 dark:text-blue-300 dark:border-blue-800",
 		"sections": [
 			{
 				"heading": "Role & Context",
@@ -42,8 +42,8 @@
 	{
 		"number": "2",
 		"title": "Business Management",
+		"slug": "business-management",
 		"color": "text-emerald-500",
-		"badgeClass": "bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-950 dark:text-emerald-300 dark:border-emerald-800",
 		"sections": [
 			{
 				"heading": "Role & Skills",
@@ -82,8 +82,8 @@
 	{
 		"number": "3",
 		"title": "Business Planning",
+		"slug": "business-planning",
 		"color": "text-orange-500",
-		"badgeClass": "bg-orange-50 text-orange-700 border-orange-200 dark:bg-orange-950 dark:text-orange-300 dark:border-orange-800",
 		"sections": [
 			{
 				"heading": "Foundations",
