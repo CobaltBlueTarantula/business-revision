@@ -4,7 +4,7 @@
 	import { resolve } from '$app/paths';
 
 	let { data } = $props();
-	const course = $derived(data.course as Course | null);
+	const course = $derived(data.course as Course);
 </script>
 
 <main class="min-h-screen bg-background text-foreground">
@@ -69,7 +69,7 @@
 	<a
 		class="group flex items-start gap-2 rounded-md px-2 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
 		href={resolve('/[course]/[topic]/[slug]', {
-			course: 'test',
+			course: course.slug,
 			topic: topic.slug,
 			slug: item.slug
 		})}

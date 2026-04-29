@@ -8,11 +8,9 @@
 	import type { Course } from '$lib/types';
 
 	const modules = import.meta.glob('$lib/content/*.json', { eager: true });
-	const courses: Course[] = Object.entries(modules).map(([path, module]) => ({
-		slug: path.split('/').pop()?.replace('.json', '') as string,
-		name: ((module as any).default as Course).name,
-		topics: ((module as any).default as Course).topics
-	}));
+	const courses: Course[] = Object.entries(modules).map(
+		([path, module]) => (module as any).default as Course
+	);
 
 	let { children } = $props();
 	let selected = $state(-1);
