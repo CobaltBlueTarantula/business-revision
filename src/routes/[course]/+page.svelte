@@ -1,10 +1,10 @@
 <script lang="ts">
 	import { Separator } from '$lib/components/ui/separator';
-	import type { Topic, Section, Item } from '$lib/types';
-	import topics from '$lib/content/prelim.json';
+	import type { Topic, Section, Item, Course } from '$lib/types';
 	import { resolve } from '$app/paths';
 
-	const typedTopics = topics as Topic[];
+	let { data } = $props();
+	const course = $derived(data.course as Course | null);
 </script>
 
 <main class="min-h-screen bg-background text-foreground">
@@ -12,18 +12,22 @@
 		<!-- Page header -->
 		<div class="mb-12">
 			<p class="mb-2 text-xs font-medium tracking-widest text-muted-foreground uppercase">
-				NSW Preliminary · Business Studies
+				Business Studies Course Revision
 			</p>
-			<h1 class="text-3xl font-semibold tracking-tight">Course Revision</h1>
-			<p class="mt-2 text-muted-foreground">Select a subtopic to begin studying</p>
+			<h1 class="text-3xl font-semibold tracking-tight">{course?.name ?? 'Course Not Found'}</h1>
+			<p class="mt-2 text-muted-foreground">
+				{course ? 'Select a subtopic to begin studying' : ''}
+			</p>
 		</div>
 
 		<!-- topic columns -->
-		<div class="grid grid-cols-3 items-start gap-10">
-			{#each typedTopics as topic (topic.title)}
-				{@render topicColumn(topic)}
-			{/each}
-		</div>
+		{#if course}
+			<div class="grid grid-cols-3 items-start gap-10">
+				{#each course.topics as topic (topic.title)}
+					{@render topicColumn(topic)}
+				{/each}
+			</div>
+		{/if}
 	</div>
 </main>
 

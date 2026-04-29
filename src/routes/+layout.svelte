@@ -1,27 +1,27 @@
 <script lang="ts">
 	import './layout.css';
 	import favicon from '$lib/assets/favicon.svg';
-	import { Button } from '$lib/components/ui/button';
 	import { Separator } from '$lib/components/ui/separator';
 	import Book from '@tabler/icons-svelte/icons/book';
-	import Bolt from '@tabler/icons-svelte/icons/bolt';
-	import Trophy from '@tabler/icons-svelte/icons/trophy';
 	import CourseDropdown from '$lib/components/CourseDropdown.svelte';
-	import { goto } from '$app/navigation';
+	import { goto, onNavigate } from '$app/navigation';
 	import type { Course } from '$lib/types';
 
-	let { children } = $props();
+	const modules = import.meta.glob('$lib/content/*.json', { eager: true });
+	const courses: Course[] = Object.entries(modules).map(([path, module]) => ({
+		slug: path.split('/').pop()?.replace('.json', '') as string,
+		name: ((module as any).default as Course).name,
+		topics: ((module as any).default as Course).topics
+	}));
 
-	const courses: Course[] = [
-		{
-			name: 'Preliminary',
-			slug: 'prelim'
-		},
-		{
-			name: 'HSC',
-			slug: 'hsc'
+	let { children } = $props();
+	let selected = $state(-1);
+
+	onNavigate((nav) => {
+		if (nav.to?.route.id === '/') {
+			selected = -1;
 		}
-	];
+	});
 </script>
 
 <svelte:head>
@@ -41,16 +41,23 @@
 
 		<Separator orientation="vertical" class="h-5 opacity-50" />
 
-		<!-- Course dropdowns -->
+		<!-- Course dropdown -->
 		<nav class="flex items-center gap-1">
-			<CourseDropdown {courses} onSelect={(i) => goto(`/${courses[i].slug}`)} />
+			<CourseDropdown
+				{courses}
+				{selected}
+				onSelect={(i) => {
+					selected = i;
+					goto(`/${courses[i].slug}`);
+				}}
+			/>
 		</nav>
 
 		<!-- Spacer -->
 		<div class="flex-1"></div>
 
 		<!-- Right-aligned buttons -->
-		<div class="flex items-center gap-2">
+		<!-- <div class="flex items-center gap-2">
 			<Button
 				variant="ghost"
 				size="sm"
@@ -71,7 +78,7 @@
 			</Button>
 			<Separator orientation="vertical" class="h-5 opacity-50" />
 			<Button size="sm" class="h-8 text-sm" href="/blue-test">BlueTest</Button>
-		</div>
+		</div> -->
 	</div>
 </header>
 

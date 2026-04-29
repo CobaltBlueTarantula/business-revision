@@ -4,9 +4,11 @@
 	import Button from './ui/button/button.svelte';
 	import type { Course } from '$lib/types';
 
-	let { courses, onSelect }: { courses: Course[]; onSelect: (index: number) => void } = $props();
-
-	let selectedCourseIndex = $state(0);
+	let {
+		courses,
+		selected,
+		onSelect
+	}: { courses: Course[]; selected: number; onSelect: (index: number) => void } = $props();
 </script>
 
 <DropdownMenu.Root>
@@ -18,7 +20,11 @@
 				size="sm"
 				class="h-8 min-w-40 justify-between px-2.5 text-sm font-normal text-muted-foreground hover:text-foreground"
 			>
-				<span>{courses[selectedCourseIndex].name}</span>
+				<span
+					>{selected < 0 || selected >= courses.length
+						? 'Select Course'
+						: courses[selected].name}</span
+				>
 				<ChevronDown class="h-3.5 w-3.5 shrink-0 opacity-50" />
 			</Button>
 		{/snippet}
@@ -28,10 +34,10 @@
 			{#each courses as course, i (course.slug)}
 				<DropdownMenu.CheckboxItem
 					class="flex justify-between gap-4"
-					checked={selectedCourseIndex === i}
+					checked={selected === i}
 					onCheckedChange={(c) => {
 						if (c) {
-							selectedCourseIndex = i;
+							selected = i;
 							onSelect(i);
 						}
 					}}

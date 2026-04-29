@@ -1,6 +1,7 @@
 export interface Course {
 	name: string;
 	slug: string;
+	topics: Topic[];
 }
 
 export interface Topic {

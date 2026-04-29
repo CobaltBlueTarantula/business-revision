@@ -1,120 +1,123 @@
-[
-	{
-		"number": "1",
-		"title": "Nature of Business",
-		"slug": "nature-of-business",
-		"color": "text-blue-500",
-		"sections": [
-			{
-				"heading": "Role & Context",
-				"items": [
-					{ "label": "Role of business in society", "slug": "role-of-business" },
-					{ "label": "Types of business", "slug": "types-of-business" },
-					{ "label": "Size & scope of business", "slug": "size-and-scope" },
-					{ "label": "Sectors of the economy", "slug": "sectors-of-economy" }
-				]
-			},
-			{
-				"heading": "Influences",
-				"items": [
-					{ "label": "Internal influences", "slug": "internal-influences" },
-					{ "label": "External influences", "slug": "external-influences" },
-					{ "label": "Stakeholders", "slug": "stakeholders" }
-				]
-			},
-			{
-				"heading": "Life Cycle",
-				"items": [
-					{ "label": "Business life cycle", "slug": "business-life-cycle" },
-					{ "label": "Entrepreneurship & innovation", "slug": "entrepreneurship" },
-					{ "label": "Success & failure factors", "slug": "success-and-failure" }
-				]
-			},
-			{
-				"heading": "Legal",
-				"items": [
-					{ "label": "Legal structures", "slug": "legal-structures" },
-					{ "label": "Government & regulation", "slug": "government-and-regulation" }
-				]
-			}
-		]
-	},
-	{
-		"number": "2",
-		"title": "Business Management",
-		"slug": "business-management",
-		"color": "text-emerald-500",
-		"sections": [
-			{
-				"heading": "Role & Skills",
-				"items": [
-					{ "label": "Role of management", "slug": "role-of-management" },
-					{ "label": "Skills of management", "slug": "management-skills" },
-					{ "label": "Management styles", "slug": "management-styles" }
-				]
-			},
-			{
-				"heading": "Functions",
-				"items": [
-					{ "label": "Management functions", "slug": "management-functions" },
-					{ "label": "Operations", "slug": "operations" },
-					{ "label": "Marketing", "slug": "marketing" },
-					{ "label": "Finance", "slug": "finance" },
-					{ "label": "Human resources", "slug": "human-resources" }
-				]
-			},
-			{
-				"heading": "Strategy",
-				"items": [
-					{ "label": "Managing change", "slug": "managing-change" },
-					{ "label": "Ethics & CSR", "slug": "ethics-and-csr" }
-				]
-			},
-			{
-				"heading": "Compliance",
-				"items": [
-					{ "label": "Legal compliance", "slug": "legal-compliance" },
-					{ "label": "Industrial relations", "slug": "industrial-relations" }
-				]
-			}
-		]
-	},
-	{
-		"number": "3",
-		"title": "Business Planning",
-		"slug": "business-planning",
-		"color": "text-orange-500",
-		"sections": [
-			{
-				"heading": "Foundations",
-				"items": [
-					{ "label": "Nature & purpose of planning", "slug": "nature-of-planning" },
-					{ "label": "The planning process", "slug": "planning-process" }
-				]
-			},
-			{
-				"heading": "Analysis",
-				"items": [
-					{ "label": "SWOT analysis", "slug": "swot-analysis" },
-					{ "label": "Competitive advantage", "slug": "competitive-advantage" },
-					{ "label": "Goals & objectives", "slug": "goals-and-objectives" }
-				]
-			},
-			{
-				"heading": "The Plan",
-				"items": [
-					{ "label": "Components of a business plan", "slug": "business-plan-components" },
-					{ "label": "Financial planning", "slug": "financial-planning" },
-					{ "label": "Marketing planning", "slug": "marketing-planning" }
-				]
-			},
-			{
-				"heading": "Risk & Law",
-				"items": [
-					{ "label": "Legal requirements", "slug": "legal-requirements" },
-					{ "label": "Risk management", "slug": "risk-management" }
-				]
-			}
-		]
-	}
-]
+{
+	"name": "Preliminary",
+	"topics": [
+		{
+			"number": "1",
+			"title": "Nature of Business",
+			"slug": "nature-of-business",
+			"color": "text-blue-500",
+			"sections": [
+				{
+					"heading": "Role & Context",
+					"items": [
+						{ "label": "Role of business in society", "slug": "role-of-business" },
+						{ "label": "Types of business", "slug": "types-of-business" },
+						{ "label": "Size & scope of business", "slug": "size-and-scope" },
+						{ "label": "Sectors of the economy", "slug": "sectors-of-economy" }
+					]
+				},
+				{
+					"heading": "Influences",
+					"items": [
+						{ "label": "Internal influences", "slug": "internal-influences" },
+						{ "label": "External influences", "slug": "external-influences" },
+						{ "label": "Stakeholders", "slug": "stakeholders" }
+					]
+				},
+				{
+					"heading": "Life Cycle",
+					"items": [
+						{ "label": "Business life cycle", "slug": "business-life-cycle" },
+						{ "label": "Entrepreneurship & innovation", "slug": "entrepreneurship" },
+						{ "label": "Success & failure factors", "slug": "success-and-failure" }
+					]
+				},
+				{
+					"heading": "Legal",
+					"items": [
+						{ "label": "Legal structures", "slug": "legal-structures" },
+						{ "label": "Government & regulation", "slug": "government-and-regulation" }
+					]
+				}
+			]
+		},
+		{
+			"number": "2",
+			"title": "Business Management",
+			"slug": "business-management",
+			"color": "text-emerald-500",
+			"sections": [
+				{
+					"heading": "Role & Skills",
+					"items": [
+						{ "label": "Role of management", "slug": "role-of-management" },
+						{ "label": "Skills of management", "slug": "management-skills" },
+						{ "label": "Management styles", "slug": "management-styles" }
+					]
+				},
+				{
+					"heading": "Functions",
+					"items": [
+						{ "label": "Management functions", "slug": "management-functions" },
+						{ "label": "Operations", "slug": "operations" },
+						{ "label": "Marketing", "slug": "marketing" },
+						{ "label": "Finance", "slug": "finance" },
+						{ "label": "Human resources", "slug": "human-resources" }
+					]
+				},
+				{
+					"heading": "Strategy",
+					"items": [
+						{ "label": "Managing change", "slug": "managing-change" },
+						{ "label": "Ethics & CSR", "slug": "ethics-and-csr" }
+					]
+				},
+				{
+					"heading": "Compliance",
+					"items": [
+						{ "label": "Legal compliance", "slug": "legal-compliance" },
+						{ "label": "Industrial relations", "slug": "industrial-relations" }
+					]
+				}
+			]
+		},
+		{
+			"number": "3",
+			"title": "Business Planning",
+			"slug": "business-planning",
+			"color": "text-orange-500",
+			"sections": [
+				{
+					"heading": "Foundations",
+					"items": [
+						{ "label": "Nature & purpose of planning", "slug": "nature-of-planning" },
+						{ "label": "The planning process", "slug": "planning-process" }
+					]
+				},
+				{
+					"heading": "Analysis",
+					"items": [
+						{ "label": "SWOT analysis", "slug": "swot-analysis" },
+						{ "label": "Competitive advantage", "slug": "competitive-advantage" },
+						{ "label": "Goals & objectives", "slug": "goals-and-objectives" }
+					]
+				},
+				{
+					"heading": "The Plan",
+					"items": [
+						{ "label": "Components of a business plan", "slug": "business-plan-components" },
+						{ "label": "Financial planning", "slug": "financial-planning" },
+						{ "label": "Marketing planning", "slug": "marketing-planning" }
+					]
+				},
+				{
+					"heading": "Risk & Law",
+					"items": [
+						{ "label": "Legal requirements", "slug": "legal-requirements" },
+						{ "label": "Risk management", "slug": "risk-management" }
+					]
+				}
+			]
+		}
+	]
+}
