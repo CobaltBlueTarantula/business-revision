@@ -9,35 +9,39 @@
 			"color": "text-blue-500",
 			"sections": [
 				{
-					"heading": "Role & Context",
+					"heading": "Role of Business",
 					"items": [
-						{ "label": "Role of business in society", "slug": "role-of-business" },
-						{ "label": "Types of business", "slug": "types-of-business" },
-						{ "label": "Size & scope of business", "slug": "size-and-scope" },
-						{ "label": "Sectors of the economy", "slug": "sectors-of-economy" }
+						{ "label": "The Nature of a Business", "slug": "the-nature-of-a-business" },
+						{ "label": "Producing goods and services", "slug": "goods-and-services" },
+						{
+							"label": "Economic and Social roles of Business",
+							"slug": "economic-and-social-roles-of-business"
+						}
+					]
+				},
+				{
+					"heading": "Types of Business",
+					"items": [
+						{ "label": "Classification by size", "slug": "classification-by-size" },
+						{ "label": "Classification by industry", "slug": "classification-by-industry" },
+						{ "label": "Legal structures", "slug": "legal-structures" }
 					]
 				},
 				{
 					"heading": "Influences",
 					"items": [
-						{ "label": "Internal influences", "slug": "internal-influences" },
 						{ "label": "External influences", "slug": "external-influences" },
+						{ "label": "Internal influences", "slug": "internal-influences" },
 						{ "label": "Stakeholders", "slug": "stakeholders" }
 					]
 				},
 				{
-					"heading": "Life Cycle",
+					"heading": "Business Growth & Decline",
 					"items": [
 						{ "label": "Business life cycle", "slug": "business-life-cycle" },
-						{ "label": "Entrepreneurship & innovation", "slug": "entrepreneurship" },
-						{ "label": "Success & failure factors", "slug": "success-and-failure" }
-					]
-				},
-				{
-					"heading": "Legal",
-					"items": [
-						{ "label": "Legal structures", "slug": "legal-structures" },
-						{ "label": "Government & regulation", "slug": "government-and-regulation" }
+						{ "label": "Responding to challenges", "slug": "responding-to-challenges" },
+						{ "label": "Factors contributing to decline", "slug": "factors-decline" },
+						{ "label": "Voluntary & involuntary cessation", "slug": "cessation-liquidation" }
 					]
 				}
 			]
@@ -49,35 +53,47 @@
 			"color": "text-emerald-500",
 			"sections": [
 				{
-					"heading": "Role & Skills",
+					"heading": "Nature of Management",
 					"items": [
-						{ "label": "Role of management", "slug": "role-of-management" },
+						{ "label": "Features of effective management", "slug": "effective-management" },
 						{ "label": "Skills of management", "slug": "management-skills" },
-						{ "label": "Management styles", "slug": "management-styles" }
+						{ "label": "Achieving business goals", "slug": "business-goals" },
+						{ "label": "Staff Involvement", "slug": "staff-involvement" }
 					]
 				},
 				{
-					"heading": "Functions",
+					"heading": "Management Approaches",
 					"items": [
-						{ "label": "Management functions", "slug": "management-functions" },
+						{ "label": "Classical approach", "slug": "classical-approach" },
+						{ "label": "Behavioural approach", "slug": "behavioural-approach" },
+						{ "label": "Contingency approach", "slug": "contingency-approach" }
+					]
+				},
+				{
+					"heading": "Management Process",
+					"items": [
+						{ "label": "Coordinating key business functions", "slug": "coordinating-functions" },
 						{ "label": "Operations", "slug": "operations" },
 						{ "label": "Marketing", "slug": "marketing" },
 						{ "label": "Finance", "slug": "finance" },
-						{ "label": "Human resources", "slug": "human-resources" }
+						{ "label": "Human resources", "slug": "human-resources" },
+						{ "label": "Ethical business behaviour", "slug": "ethical-behaviour" }
 					]
 				},
 				{
-					"heading": "Strategy",
+					"heading": "Management & Change",
 					"items": [
-						{ "label": "Managing change", "slug": "managing-change" },
-						{ "label": "Ethics & CSR", "slug": "ethics-and-csr" }
-					]
-				},
-				{
-					"heading": "Compliance",
-					"items": [
-						{ "label": "Legal compliance", "slug": "legal-compliance" },
-						{ "label": "Industrial relations", "slug": "industrial-relations" }
+						{
+							"label": "Responding to internal & external influences",
+							"slug": "responding-to-influences"
+						},
+						{
+							"label": "Identifying the need for Change",
+							"slug": "identifying-the-need-for-change"
+						},
+						{ "label": "Setting achievable goals", "slug": "setting-achievable-goals" },
+						{ "label": "Resistance to change", "slug": "resistance-to-change" },
+						{ "label": "Management consultants", "slug": "management-consultants" }
 					]
 				}
 			]
@@ -89,33 +105,49 @@
 			"color": "text-orange-500",
 			"sections": [
 				{
-					"heading": "Foundations",
+					"heading": "Small to Medium Enterprises",
 					"items": [
-						{ "label": "Nature & purpose of planning", "slug": "nature-of-planning" },
-						{ "label": "The planning process", "slug": "planning-process" }
+						{ "label": "Definition & role of SMEs", "slug": "sme-definition-role" },
+						{ "label": "Economic contribution", "slug": "economic-contribution" },
+						{ "label": "Success and failure", "slug": "success-and-failure" }
 					]
 				},
 				{
-					"heading": "Analysis",
+					"heading": "Establishing an SME",
 					"items": [
-						{ "label": "SWOT analysis", "slug": "swot-analysis" },
+						{ "label": "Personal qualities & entrepreneurship", "slug": "personal-qualities" },
+						{ "label": "Sources of information", "slug": "sources-of-information" },
+						{ "label": "The business idea & competition", "slug": "business-idea-competition" },
+						{ "label": "Establishment options", "slug": "establishment-options" },
+						{ "label": "Market and finance", "slug": "market-and-finance" },
+						{ "label": "Legal, zoning and regulations", "slug": "legal-zoning-and-regulations" },
+						{ "label": "Human resources & taxation", "slug": "hr-and-taxation" }
+					]
+				},
+				{
+					"heading": "The Business Planning Process",
+					"items": [
+						{ "label": "Situational analysis", "slug": "situational-analysis" },
+						{ "label": "Vision, goals & objectives", "slug": "goals-and-objectives" },
+						{ "label": "Organising resources", "slug": "organising-resources" },
+						{ "label": "Forecasting & break-even analysis", "slug": "forecasting-break-even" },
+						{
+							"label": "Monitoring, evaluation & corrective action",
+							"slug": "monitoring-evaluation"
+						}
+					]
+				},
+				{
+					"heading": "Critical Issues",
+					"items": [
+						{ "label": "Importance of a business plan", "slug": "importance-of-business-plan" },
+						{ "label": "Management and Trend analysis", "slug": "management-and-trend-analysis" },
 						{ "label": "Competitive advantage", "slug": "competitive-advantage" },
-						{ "label": "Goals & objectives", "slug": "goals-and-objectives" }
-					]
-				},
-				{
-					"heading": "The Plan",
-					"items": [
-						{ "label": "Components of a business plan", "slug": "business-plan-components" },
-						{ "label": "Financial planning", "slug": "financial-planning" },
-						{ "label": "Marketing planning", "slug": "marketing-planning" }
-					]
-				},
-				{
-					"heading": "Risk & Law",
-					"items": [
-						{ "label": "Legal requirements", "slug": "legal-requirements" },
-						{ "label": "Risk management", "slug": "risk-management" }
+						{ "label": "Finance & resource management", "slug": "finance-resource-management" },
+						{
+							"label": "Technology & economic conditions",
+							"slug": "technology-economic-conditions"
+						}
 					]
 				}
 			]

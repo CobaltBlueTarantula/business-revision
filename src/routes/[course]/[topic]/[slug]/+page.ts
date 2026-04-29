@@ -9,6 +9,6 @@ export async function load({ params }) {
 			metadata: page.metadata // frontmatter
 		};
 	} catch {
-		error(404, 'Topic not found');
+		error(404, 'Page not found');
 	}
 }
