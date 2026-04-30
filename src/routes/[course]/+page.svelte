@@ -7,6 +7,10 @@
 	const course = $derived(data.course as Course);
 </script>
 
+<svelte:head>
+	<title>{course.name} | Business Studies</title>
+</svelte:head>
+
 <main class="min-h-screen bg-background text-foreground">
 	<div class="mx-auto w-[82%] max-w-6xl py-16">
 		<!-- Page header -->
