@@ -6,6 +6,8 @@
 	import CourseDropdown from '$lib/components/CourseDropdown.svelte';
 	import { goto, onNavigate } from '$app/navigation';
 	import type { Course } from '$lib/types';
+	import Button from '$lib/components/ui/button/button.svelte';
+	import FileText from '@tabler/icons-svelte/icons/file-text';
 
 	const modules = import.meta.glob('$lib/content/*.json', { eager: true });
 	const courses: Course[] = Object.entries(modules).map(
@@ -16,9 +18,11 @@
 	let selected = $state(-1);
 
 	onNavigate((nav) => {
-		if (nav.to?.route.id === '/') {
-			selected = -1;
-		}
+		const course = courses.find((c) => nav.to?.url.pathname.includes(c.slug));
+
+		if (course) {
+			selected = courses.indexOf(course);
+		} else selected = -1;
 	});
 </script>
 
@@ -51,21 +55,24 @@
 			/>
 		</nav>
 
+		<!-- Syllabus button -->
+		<Button
+			variant="secondary"
+			size="sm"
+			class="h-8 gap-1.5 text-sm font-normal text-muted-foreground hover:text-foreground"
+			href="/files/business-studies-st6-syl.pdf"
+			target="_blank"
+		>
+			<FileText class="h-3.5 w-3.5" />
+			Syllabus
+		</Button>
+
 		<!-- Spacer -->
 		<div class="flex-1"></div>
 
 		<!-- Right-aligned buttons -->
-		<!-- <div class="flex items-center gap-2">
-			<Button
-				variant="ghost"
-				size="sm"
-				class="h-8 gap-1.5 text-sm font-normal text-muted-foreground hover:text-foreground"
-				href="/test1"
-			>
-				<Bolt class="h-3.5 w-3.5" />
-				Test1
-			</Button>
-			<Button
+		<div class="flex items-center gap-2">
+			<!-- <Button
 				variant="ghost"
 				size="sm"
 				class="h-8 gap-1.5 text-sm font-normal text-muted-foreground hover:text-foreground"
@@ -75,8 +82,8 @@
 				Test2
 			</Button>
 			<Separator orientation="vertical" class="h-5 opacity-50" />
-			<Button size="sm" class="h-8 text-sm" href="/blue-test">BlueTest</Button>
-		</div> -->
+			<Button size="sm" class="h-8 text-sm" href="/blue-test">BlueTest</Button> -->
+		</div>
 	</div>
 </header>
 
