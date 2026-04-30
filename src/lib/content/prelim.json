@@ -130,7 +130,7 @@
 						{ "label": "Situational analysis", "slug": "situational-analysis" },
 						{ "label": "Vision, goals & objectives", "slug": "goals-and-objectives" },
 						{ "label": "Organising resources", "slug": "organising-resources" },
-						{ "label": "Forecasting & break-even analysis", "slug": "forecasting-break-even" },
+						{ "label": "Forecasting", "slug": "forecasting" },
 						{
 							"label": "Monitoring, evaluation & corrective action",
 							"slug": "monitoring-evaluation"
