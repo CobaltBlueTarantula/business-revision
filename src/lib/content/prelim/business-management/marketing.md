@@ -1,5 +1,3 @@
-# Marketing
-
 ## Identification of the target market
 
 **Market segmentation:** the division of the total market into small segments based on common characteristics of a customer group.<br/>

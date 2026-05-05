@@ -1,5 +1,3 @@
-# Sources of Information
-
 ## Professional advisers
 
 - Accountants

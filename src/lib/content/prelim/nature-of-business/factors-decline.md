@@ -1,5 +1,3 @@
-# Factors contributing to business decline
-
 **Lack of innovation** and failure to keep up with **changing consumer needs** can result in **decreased sales**.
 **Falling profits** may reduce the ability of the business to meet its **financial obligations** with financial institutions and other **creditors**.
 

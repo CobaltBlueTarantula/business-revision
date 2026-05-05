@@ -1,5 +1,3 @@
-# Forecasting
-
 The requirement for the business whenever forecasting is used is to gain an accurate estimate of its **total revenue** in the **operational period**.
 This provides a guide to its **expected profit levels**.
 

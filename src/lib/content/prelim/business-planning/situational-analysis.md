@@ -1,5 +1,3 @@
-# Situational Analysis
-
 ## SWOT Analysis
 
 ### Internal Assessment
