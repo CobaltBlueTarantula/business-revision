@@ -121,7 +121,8 @@
 						{ "label": "Establishment options", "slug": "establishment-options" },
 						{ "label": "Market and finance", "slug": "market-and-finance" },
 						{ "label": "Legal, zoning and regulations", "slug": "legal-zoning-and-regulations" },
-						{ "label": "Human resources & taxation", "slug": "hr-and-taxation" }
+						{ "label": "Human resources", "slug": "human-resources" },
+						{ "label": "Taxation", "slug": "taxation" }
 					]
 				},
 				{
