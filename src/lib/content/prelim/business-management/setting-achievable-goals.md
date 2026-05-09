@@ -1,3 +1,0 @@
-- A business plan that sets out the path a firm wishes to take and the goals it hopes to achieve.
-- Setting SMART goals (Specific, Measurable, AChievable, Realistic and Timely)
-- Evaluating the current position of the business using a [Situational Analysis](../business-planning/situational-analysis)
