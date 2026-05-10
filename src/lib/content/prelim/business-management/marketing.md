@@ -1,6 +1,7 @@
 ## Identification of the target market
 
-**Market segmentation:** the division of the total market into small segments based on common characteristics of a customer group.<br/>
+**Target market:** the focus of the firm's marketing strategy, including existing as well as potential customers.<br/>
+**Market segmentation:** the division of the total market into small segments based on common characteristics of a customer group. The largest market is the **mass market** and the smallest is a **niche market**.<br/>
 **Market research:** analysis of data from a target market group to create a customer profile.
 
 ## Marketing mix (PPPP)

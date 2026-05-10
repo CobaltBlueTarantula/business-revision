@@ -8,7 +8,7 @@
 
 ## State taxes
 
-Payroll tax is a tax imposed by state governments based on the total amount that employers pay in wages. It is effectively a tax on employing workers once the employer's total Australian wages bill exceeds the exemption theshold.
+**Payroll tax** is a tax imposed by state governments based on the total amount that employers pay in wages. It is effectively a tax on employing workers once the employer's total Australian wages bill exceeds the exemption theshold.
 
 Other state taxes that may apply to businesses:
 
@@ -19,7 +19,7 @@ Other state taxes that may apply to businesses:
 
 ## Local fees and charges
 
-Local councils charge businesses fees, so that residential reatepayers will not have to cover the cost of commerical activities. Councils assess their land rates based on socio-economic factors.
+Local councils charge businesses fees, so that residential ratepayers will not have to cover the cost of commerical activities. Councils assess their land rates based on socio-economic factors.
 
 Fees are charged for:
 

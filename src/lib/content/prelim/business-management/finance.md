@@ -4,7 +4,6 @@
 Also refers to **reinvested** net profit.<br/>
 **Debt finance:** funds borrowed from a bank, investor, or other firm. Involves a contractual agreement that specifies the
 need to repay the **principal** with **interest**, over a set **period of time**.<br/>
-**Non-current assets:** assets that earn revenue for a business over a long period of time, usually greater than 12 months (eg. land, equipment, vehicles).
 
 ## Cash flow statement
 
