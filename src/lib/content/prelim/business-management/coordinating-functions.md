@@ -1,0 +1,1 @@
+A key role of senior management is to organise the **resources** of the business by coordinating the **key business functions** in the most **efficient** manner. This essentially refers to the interdependence between the key business functions.

@@ -1,0 +1,1 @@
+**Ethics** is what is seen as right or wrong based on the values of mangements, employees, and the community. Ethical behavious involves acting in a manner that is consistent with the values and standards set by society as a whole.

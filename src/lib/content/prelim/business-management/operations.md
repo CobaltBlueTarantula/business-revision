@@ -47,4 +47,4 @@ A more **proactive** form of control which involves establishing and using a set
 
 An approach to quality control that relies on continuous improvements in all aspects of the business.
 
-**Quality curcles:** regular meetings of a group of employees from different section of the business to discuss issues arising in the workplace.
+**Quality circles:** regular meetings of a group of employees from different section of the business to discuss issues arising in the workplace.
