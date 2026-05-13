@@ -20,7 +20,7 @@
 					]
 				},
 				{
-					"heading": "Types of Business",
+					"heading": "Types of Businesses",
 					"items": [
 						{ "label": "Classification by size", "slug": "classification-by-size" },
 						{ "label": "Classification by industry", "slug": "classification-by-industry" },
@@ -28,7 +28,7 @@
 					]
 				},
 				{
-					"heading": "Influences",
+					"heading": "Influences in the Business Environment",
 					"items": [
 						{ "label": "External influences", "slug": "external-influences" },
 						{ "label": "Internal influences", "slug": "internal-influences" },
@@ -36,7 +36,7 @@
 					]
 				},
 				{
-					"heading": "Business Growth & Decline",
+					"heading": "Business Growth and Decline",
 					"items": [
 						{ "label": "Business life cycle", "slug": "business-life-cycle" },
 						{ "label": "Responding to challenges", "slug": "responding-to-challenges" },
@@ -81,7 +81,7 @@
 					]
 				},
 				{
-					"heading": "Management & Change",
+					"heading": "Management and Change",
 					"items": [
 						{
 							"label": "Responding to internal & external influences",
@@ -112,7 +112,7 @@
 					]
 				},
 				{
-					"heading": "Establishing an SME",
+					"heading": "Influences in Establishing an SME",
 					"items": [
 						{ "label": "Personal qualities & entrepreneurship", "slug": "personal-qualities" },
 						{ "label": "Sources of information", "slug": "sources-of-information" },
@@ -138,16 +138,21 @@
 					]
 				},
 				{
-					"heading": "Critical Issues",
+					"heading": "Critical Issues in Business success and failure",
 					"items": [
 						{ "label": "Importance of a business plan", "slug": "importance-of-business-plan" },
-						{ "label": "Management and Trend analysis", "slug": "management-and-trend-analysis" },
-						{ "label": "Competitive advantage", "slug": "competitive-advantage" },
-						{ "label": "Finance & resource management", "slug": "finance-resource-management" },
+						{ "label": "Management - Staffing and Teams", "slug": "management-staffing-and-teams" },
+						{ "label": "Trend analysis", "slug": "trend-analysis" },
 						{
-							"label": "Technology & economic conditions",
-							"slug": "technology-economic-conditions"
-						}
+							"label": "Identifying and sustaining competitive advantage",
+							"slug": "sustaining-competitive-advantage"
+						},
+						{
+							"label": "Avoiding over-extension of resources",
+							"slug": "avoiding-resources-overextension"
+						},
+						{ "label": "Using technology", "slug": "using-technology" },
+						{ "label": "Economic conditions", "slug": "economic-conditions" }
 					]
 				}
 			]
