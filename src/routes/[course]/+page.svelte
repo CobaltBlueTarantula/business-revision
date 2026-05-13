@@ -20,7 +20,7 @@
 			</p>
 			<h1 class="text-3xl font-semibold tracking-tight">{course?.name ?? 'Course Not Found'}</h1>
 			<p class="mt-2 text-muted-foreground">
-				{course ? 'Select a subtopic to begin studying' : ''}
+				{course ? 'Select a subtopic to revise' : ''}
 			</p>
 		</div>
 

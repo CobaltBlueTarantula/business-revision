@@ -1,5 +1,6 @@
 import adapter from '@sveltejs/adapter-auto';
 import { mdsvex } from 'mdsvex';
+import remarkHighlight from './src/lib/remarkHighlight.js';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -14,7 +15,12 @@ const config = {
 		adapter: adapter()
 	},
 	extensions: ['.svelte', '.md'],
-	preprocess: [mdsvex({ extensions: ['.md'] })]
+	preprocess: [
+		mdsvex({
+			extensions: ['.md'],
+			remarkPlugins: [remarkHighlight]
+		})
+	]
 };
 
 export default config;

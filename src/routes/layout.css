@@ -130,3 +130,8 @@
 		@apply font-sans;
 	}
 }
+
+.blue-bold {
+	font-weight: bold;
+	color: var(--primary);
+}
