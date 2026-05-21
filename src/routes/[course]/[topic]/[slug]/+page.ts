@@ -8,10 +8,12 @@ export async function load({ params }) {
 
 		const course = courseData.default as Course;
 		let item = null;
+		let sec = null;
 		for (const section of course.topics.find((t) => t.slug === params.topic)?.sections ?? []) {
 			const found = section.items.find((i) => i.slug === params.slug);
 			if (found) {
 				item = found;
+				sec = section;
 				break;
 			}
 		}
@@ -19,7 +21,8 @@ export async function load({ params }) {
 		return {
 			content: page.default,
 			metadata: page.metadata, // frontmatter
-			itemData: item
+			itemData: item,
+			section: sec
 		};
 	} catch {
 		error(404, 'Page not found');
