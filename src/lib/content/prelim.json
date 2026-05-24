@@ -11,12 +11,9 @@
 				{
 					"heading": "Role of Business",
 					"items": [
-						{ "label": "The Nature of a Business", "slug": "the-nature-of-a-business" },
+						{ "label": "The Nature of a Business", "slug": "nature-of-a-business" },
 						{ "label": "Producing goods and services", "slug": "goods-and-services" },
-						{
-							"label": "Economic and Social roles of Business",
-							"slug": "economic-and-social-roles-of-business"
-						}
+						{ "label": "Different roles of Business", "slug": "different-roles-of-business" }
 					]
 				},
 				{
@@ -41,7 +38,10 @@
 						{ "label": "Business life cycle", "slug": "business-life-cycle" },
 						{ "label": "Responding to challenges", "slug": "responding-to-challenges" },
 						{ "label": "Factors contributing to decline", "slug": "factors-decline" },
-						{ "label": "Voluntary & involuntary cessation", "slug": "cessation-liquidation" }
+						{
+							"label": "Voluntary and involuntary cessation, liquidation  ",
+							"slug": "cessation-liquidation"
+						}
 					]
 				}
 			]
@@ -91,8 +91,9 @@
 							"label": "Identifying the need for Change",
 							"slug": "identifying-the-need-for-change"
 						},
+						{ "label": "Setting achievable goals", "slug": "setting-achievable-goals" },
 						{ "label": "Resistance to change", "slug": "resistance-to-change" },
-						{ "label": "Reducing resistance to Change", "slug": "reducing-resistance-to-change" }
+						{ "label": "Management consultants", "slug": "management-consultants" }
 					]
 				}
 			]
@@ -106,7 +107,7 @@
 				{
 					"heading": "Small to Medium Enterprises",
 					"items": [
-						{ "label": "Definition & role of SMEs", "slug": "sme-definition-role" },
+						{ "label": "Definition and role of SMEs", "slug": "sme-definition-role" },
 						{ "label": "Economic contribution", "slug": "economic-contribution" },
 						{ "label": "Success and failure", "slug": "success-and-failure" }
 					]
@@ -114,11 +115,12 @@
 				{
 					"heading": "Influences in Establishing an SME",
 					"items": [
-						{ "label": "Personal qualities & entrepreneurship", "slug": "personal-qualities" },
+						{ "label": "Personal qualities", "slug": "personal-qualities" },
 						{ "label": "Sources of information", "slug": "sources-of-information" },
-						{ "label": "The business idea & competition", "slug": "business-idea-competition" },
+						{ "label": "The business idea and competition", "slug": "business-idea-competition" },
 						{ "label": "Establishment options", "slug": "establishment-options" },
-						{ "label": "Market and finance", "slug": "market-and-finance" },
+						{ "label": "Market", "slug": "market" },
+						{ "label": "Finance", "slug": "finance" },
 						{ "label": "Legal, zoning and regulations", "slug": "legal-zoning-and-regulations" },
 						{ "label": "Human resources", "slug": "human-resources" },
 						{ "label": "Taxation", "slug": "taxation" }
@@ -128,13 +130,11 @@
 					"heading": "The Business Planning Process",
 					"items": [
 						{ "label": "Situational analysis", "slug": "situational-analysis" },
-						{ "label": "Vision, goals & objectives", "slug": "goals-and-objectives" },
+						{ "label": "Vision, goals and objectives", "slug": "goals-and-objectives" },
 						{ "label": "Organising resources", "slug": "organising-resources" },
 						{ "label": "Forecasting", "slug": "forecasting" },
-						{
-							"label": "Monitoring, evaluation & corrective action",
-							"slug": "monitoring-evaluation"
-						}
+						{ "label": "Monitoring and evaluation", "slug": "monitoring-evaluation" },
+						{ "label": "Taking corrective action", "slug": "taking-corrective-action" }
 					]
 				},
 				{
