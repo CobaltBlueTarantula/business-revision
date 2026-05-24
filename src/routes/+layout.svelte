@@ -1,6 +1,5 @@
 <script lang="ts">
 	import './layout.css';
-	import favicon from '$lib/assets/favicon.svg';
 	import { Separator } from '$lib/components/ui/separator';
 	import Book from '@tabler/icons-svelte/icons/book';
 	import CourseDropdown from '$lib/components/CourseDropdown.svelte';
@@ -8,6 +7,8 @@
 	import type { Course } from '$lib/types';
 	import Button from '$lib/components/ui/button/button.svelte';
 	import FileText from '@tabler/icons-svelte/icons/file-text';
+
+	import { base } from '$app/paths';
 
 	const modules = import.meta.glob('$lib/content/*.json', { eager: true });
 	const courses: Course[] = Object.entries(modules).map(
@@ -27,7 +28,7 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<link rel="icon" href="{base}/favicon.svg" />
 </svelte:head>
 
 <!-- Navbar -->
@@ -36,7 +37,7 @@
 >
 	<div class="flex h-12 items-center gap-4 px-6">
 		<!-- Site title -->
-		<a href="/" class="flex shrink-0 items-center gap-2">
+		<a href={base} class="flex shrink-0 items-center gap-2">
 			<Book class="h-4 w-4 text-muted-foreground" />
 			<span class="text-sm font-semibold tracking-tight">BusinessRevision</span>
 		</a>
@@ -50,7 +51,7 @@
 				{selected}
 				onSelect={(i) => {
 					selected = i;
-					goto(`/${courses[i].slug}`);
+					goto(`${base}/${courses[i].slug}`);
 				}}
 			/>
 		</nav>
@@ -60,7 +61,7 @@
 			variant="secondary"
 			size="sm"
 			class="h-8 gap-1.5 text-sm font-normal text-muted-foreground hover:text-foreground"
-			href="/files/business-studies-st6-syl.pdf"
+			href="{base}/files/business-studies-st6-syl.pdf"
 			target="_blank"
 		>
 			<FileText class="h-3.5 w-3.5" />
