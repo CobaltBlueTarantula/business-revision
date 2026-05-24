@@ -1,0 +1,1 @@
+import{E as e,O as t}from"./DUZ3tWbZ.js";import"./Cfug8aQt.js";var n=t(`<p><strong>Ethics</strong> is what is seen as right or wrong based on the values of mangements, employees, and the community. Ethical behavious involves acting in a manner that is consistent with the values and standards set by society as a whole.</p>`);function r(t){e(t,n())}export{r as default};

@@ -1,0 +1,1 @@
+import{E as e,K as t,O as n,V as r,m as i}from"../chunks/DUZ3tWbZ.js";import"../chunks/Cfug8aQt.js";var a=n(`<h1>Home Page!!!</h1>`);function o(n){var o=a();i(`1uha8ag`,e=>{r(()=>{t.title=`Business Revision`})}),e(n,o)}export{o as component};
