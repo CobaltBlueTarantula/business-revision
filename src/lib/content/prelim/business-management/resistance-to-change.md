@@ -2,7 +2,7 @@
 
 ### Redundancy
 
-New technology may replace some employeers, leading the firm to downsize as employees are made redundant. Redundancy payouts would need to be made, which are a form of compensation paid to workers based on the length of time they have worked at the firm as well as the experience they have acquired.
+New technology may replace some employeers, leading the firm to downsize as employees are made redundant. **Redundancy payouts** would need to be made, which are a form of compensation paid to workers based on the length of time they have worked at the firm as well as the experience they have acquired.
 
 !!Redundancy:!! when the labour of workers is no longer needed. This may be a result of the business downsizing, restructuring, or introducing new technology to perform the workers' role. The business may ask the workers to volunteer to leave **(voluntary redundancy)** or their employment may be terminated **(involuntary redundancy)**.
 
@@ -21,7 +21,7 @@ New technology may replace some employeers, leading the firm to downsize as empl
 
 ### Resistance from employees
 
-!!Deskilling:!! occurs where the introduction of **new technology** leads to repetitive tasks being performed by machinery, so employees and their skills are no longer required. To overcome resistance created by this fear, management would need to ensure that there is **multiskilling** of staff and job rotation to eliminate boredom.
+!!Deskilling:!! occurs where the introduction of **new technology** leads to repetitive tasks being performed by machinery, so employees and their skills are no longer required. To overcome resistance created by this fear, management would need to ensure that there is !!multiskilling!! of staff and job rotation to eliminate boredom.
 
 Other reasons include:
 

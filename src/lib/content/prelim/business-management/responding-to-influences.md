@@ -14,8 +14,8 @@ The advantages of implementing new technology are usually **long-term cost savin
 - Negative environmental impacts
 - Negative community perceptions
 
-**Lead times:** the time between the supplier's receipt of a request for goods and the delivery of those goods to the purchaser.<br/>
-**Just-in-time method:** a stock control system whereby the business is able to access stock just when it needs it.
+!!Lead times:!! the time between the supplier's receipt of a request for goods and the delivery of those goods to the purchaser.<br/>
+!!Just-in-time method:!! a stock control system whereby the business is able to access stock just when it needs it.
 
 ## New systems and prodcedures
 
@@ -33,18 +33,19 @@ A particular business culture may inhibit a business's progress, preventing it f
 
 A business needs to have a flexible structure that can respond quickly to global influences. Managers will use **outsourcing** and **alliances** to **minimise risks** and **maximise opportunities**.
 
-**Alliances:** collaborative agreements between two or more independent organizations aimed at achieving mutual goals.<br/>
-**Strategic alliance:** a joint venture between firms that is established in order to share resources and thus gain benefits that would otherwise be unachievable.<br/>
-**Network:** businesses working together as a group, performing tasks for their mutual benefit.
+!!Alliances:!! collaborative agreements between two or more independent organizations aimed at achieving mutual goals.<br/>
+!!Strategic alliance:!! a joint venture between firms that is established in order to share resources and thus gain benefits that would otherwise be unachievable.<br/>
+!!Network:!! businesses working together as a group, performing tasks for their mutual benefit.
 
-### Outsourcing
+### !!Outsourcing!!
 
 Businesses can outsource aspects of all key business functions, including **recruitment**, equipment maintenance, **accounting**, **market research**, legal assistance and payroll management. Non-key tasks are commonly outsourced to make resources used in these areas available to core activities.
 
-- The specialist firm will be more efficient at doing a specific task
+- The **specialist firm** will be more efficient at doing a specific task
 - They will possess more expertise
 - Have access to the latest innovative technology
+- Specialist firms are able to access !!economies of scale!!
 
 ### Flat structures
 
-When the middle layers of management are removed, delegation of tasks and responsibility is passed down to the lower level of management and employees who are organised into self-managing work teams with team leaders. The flatter structure has a shorter chain of command and a wider span of control. Imporved communication, along with collaboration, should result in increased productivity and therefore profitability.
+When the middle layers of management are removed, delegation of tasks and responsibility is passed down to the lower level of management and employees who are organised into **self-managing work teams with team leaders**. The flatter structure has a !!shorter chain of command!! and a !!wider span of control!!. Improved communication, along with collaboration, should result in increased productivity and therefore profitability.

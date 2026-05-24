@@ -4,6 +4,6 @@ A changing external environment may present opportunities for the business or po
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | A new competitor may be aggresively targeting market share. Customer attitudes may be changing. | There may be changes to legislation concerning product safety, production methods and waste disposal. Equipment has become technologically obsolete and quality has decreased. | Employee motivation, productivity and quality may have fallen. Absenteeism and turnover may have increased. | The costs of operting the business may have risen dramatically. |
 
-## Business information systems (BIS)
+## !!Business information systems!! (BIS)
 
-Rather than just collecting data and producing reports, BIS examines and analyses this information to identify trends and patterns. It provides information about the key performance indicators, helping managers make better decisions and justify changes to the business.
+Rather than just collecting data and producing reports, **BIS** examines and analyses this information to **identify trends and patterns**. It provides information about the key performance indicators, helping managers **make better decisions** and **justify changes** to the business.

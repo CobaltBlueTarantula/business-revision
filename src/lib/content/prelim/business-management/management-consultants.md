@@ -7,8 +7,8 @@
 
 ### Advantages
 
-- Objective analysis of the business's issues and problems
-- Able to bring industry and world's best practices to the business
+- **Objective analysis** of the business's issues and problems
+- Able to bring industry and world's **best practices** to the business
 - Can identify existing business problems quickly, having observed them before
 - Plans to improve are tailored to the needs of the business
 - Innovative solutions provide a competitive advantage

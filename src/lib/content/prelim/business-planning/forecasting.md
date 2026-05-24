@@ -17,7 +17,7 @@ A break-even analysis helps by:
 
 ## Cashflow projections
 
-Predicting future cash inflows and outflows for the business. Forecasts are needed to show how much money is needed, when it is needed, and where it will come from.
+Predicting **future cash inflows and outflows** for the business. Forecasts are needed to show how much money is needed, when it is needed, and where it will come from.
 These projetions should highlight:
 
 - Changes in the business's bank balance
