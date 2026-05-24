@@ -10,7 +10,7 @@
 
 	import { base } from '$app/paths';
 
-	const modules = import.meta.glob('$lib/content/*.json', { eager: true });
+	const modules = import.meta.glob('$lib/content/*/course.json', { eager: true });
 	const courses: Course[] = Object.entries(modules).map(
 		([path, module]) => (module as any).default as Course
 	);
