@@ -3,7 +3,7 @@ export async function load({ params }) {
 
 	let json = null;
 	try {
-		const data = await import(`$lib/content/${key}.json`);
+		const data = await import(`$lib/content/${key}/course.json`);
 		json = data.default;
 	} catch {
 		json = null;

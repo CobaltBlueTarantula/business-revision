@@ -4,7 +4,7 @@ import { error } from '@sveltejs/kit';
 export async function load({ params }) {
 	try {
 		const page = await import(`$lib/content/${params.course}/${params.topic}/${params.slug}.md`);
-		const courseData = await import(`$lib/content/${params.course}.json`);
+		const courseData = await import(`$lib/content/${params.course}/course.json`);
 
 		const course = courseData.default as Course;
 		let item = null;

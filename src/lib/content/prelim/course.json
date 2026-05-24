@@ -107,7 +107,7 @@
 				{
 					"heading": "Small to Medium Enterprises",
 					"items": [
-						{ "label": "Definition and role of SMEs", "slug": "sme-definition-role" },
+						{ "label": "Definition and role of SMEs", "slug": "sme-definition-and-role" },
 						{ "label": "Economic contribution", "slug": "economic-contribution" },
 						{ "label": "Success and failure", "slug": "success-and-failure" }
 					]
