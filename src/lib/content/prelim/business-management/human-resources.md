@@ -4,19 +4,23 @@ HR are the human labour used to transform inputs into outputs. The role of the h
 
 ### Identifying staffing needs
 
-**Job description:** a document listing the duties, tasks and **responsibilities** of a particular job.<br/>
-**Job specification:** a written statement describing the key skills, experience and **qualifications** needed for a particular job.<br/>
-**Remuneration:** how much a job is worth, meaning the **pay and entitlements** to be provided to the person employed to do the job.<br/>
-**Award:** a legal document that specifies the **minimum working conditions** that apply to all people employed in a common industry.
+The HR manager will need to work closely with the other managers to determine the required skills, experience and qualifications.
+
+!!Job description:!! a document listing the **duties, tasks and responsibilities** of a particular job.<br/>
+!!Job specification:!! a written statement describing the **key skills, experience and qualifications** needed for a particular job.<br/>
+!!Remuneration:!! how much a job is worth, meaning the **pay and entitlements** to be provided to the person employed to do the job.<br/>
+!!Award:!! a legal document that specifies the **minimum working conditions** that apply to all people employed in a common industry.
 
 ### Sourcing
 
-- Internally: promotion for an existing staff member who has applied for the job
-- Externally: from outside the business, advertising externally for job applications
+!!Internally:!! promotion for an existing staff member who has applied for the job.<br/>
+!!Externally:!! from outside the business, advertising externally for job applications.
+
+Small businesses often **outsource** this task to **specialist recruitment agencies** to find suitable employees.
 
 ### Selection
 
-**Selection:** a screening process in staff acquisition. The information gathered about job applicants is reviewed and the most appropriate applicant is chosen.
+**Selection:** a screening process in staff acquisition. The information gathered about job applicants is reviewed and the **most appropriate applicant is chosen**.
 The selection process may involve:
 
 - application forms
@@ -33,8 +37,8 @@ Any activities that are aimed at improving an employee's present and future perf
 
 **Induction:** introduces new employees to the business, enables them to become familiar with the workings of the organisation and provides them with information about the business's day-to-day operations.
 
-- **On-the-job** training: including adivers, traineeships, apprenticeships and job rotation.
-- **Off-the-job** training: including TAFE and university courses, in-services and seminars.
+!!On-the-job training:!! including adivers, traineeships, apprenticeships and job rotation.<br/>
+!!Off-the-job training:!! including TAFE and university courses, in-services and seminars.
 
 ## Employment contracts
 

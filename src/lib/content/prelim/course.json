@@ -38,10 +38,7 @@
 						{ "label": "Business life cycle", "slug": "business-life-cycle" },
 						{ "label": "Responding to challenges", "slug": "responding-to-challenges" },
 						{ "label": "Factors contributing to decline", "slug": "factors-decline" },
-						{
-							"label": "Voluntary and involuntary cessation, liquidation  ",
-							"slug": "cessation-liquidation"
-						}
+						{ "label": "Cessation and liquidation", "slug": "cessation-and-liquidation" }
 					]
 				}
 			]
@@ -130,10 +127,10 @@
 					"heading": "The Business Planning Process",
 					"items": [
 						{ "label": "Situational analysis", "slug": "situational-analysis" },
-						{ "label": "Vision, goals and objectives", "slug": "goals-and-objectives" },
+						{ "label": "Vision, goals and objectives", "slug": "vision-goals-and-objectives" },
 						{ "label": "Organising resources", "slug": "organising-resources" },
 						{ "label": "Forecasting", "slug": "forecasting" },
-						{ "label": "Monitoring and evaluation", "slug": "monitoring-evaluation" },
+						{ "label": "Monitoring and evaluation", "slug": "monitoring-and-evaluation" },
 						{ "label": "Taking corrective action", "slug": "taking-corrective-action" }
 					]
 				},

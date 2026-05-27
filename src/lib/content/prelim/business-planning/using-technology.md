@@ -1,4 +1,6 @@
-## Internet applications (e-business and e-commerce)
+**Also see [Technological Influence](../nature-of-business/external-influences)**
+
+## Internet applications
 
 A business that wants to be **competitive** must adopt the appropriate technology. Businesses **slow to exploit technology** are likely to fail because competitiors will strive to capture **greater market share**. Technology allows operation processes to be more **efficient** and **effective**, **cutting costs** and **improving productivity**.
 
@@ -23,4 +25,3 @@ Accessing material electronically is **fast and relatively inexpensive**, while 
 ## E-commerce
 
 !!E-commerce!! refers to buying and selling goods and services via the internet. Today consumers expect a business to have an **online presence**, however many small business owners still do not realise its full potential.
-.

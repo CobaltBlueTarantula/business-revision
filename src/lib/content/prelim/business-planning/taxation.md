@@ -1,14 +1,15 @@
 ## Federal taxes
 
-- Company income tax takes a fraction of each dollar of profit made by businesses with revenue above a certain threshold.
-- Businesses must be aware of and are responsible for calculating and deducting PAYG tax from eployee's pay.
+- !!Company tax!! takes a fraction of each dollar of profit made by businesses with revenue above a certain threshold.
+- Businesses must be aware of and are responsible for calculating and deducting !!PAYG tax!! from employee's pay.
 
-**Goods and services tax (GST):** a tax of **10%** on the cost of all **inputs** used in **production**, introduced by the federal government in 2000.<br/>
-**Business activity statement (BAS):** a report that all registered businesses must complete to record and pay their taxation obligations to the federal government.
+!!Goods and services tax (GST):!! a tax of **10%** on the cost of all **inputs** used in **production**, introduced by the federal government in 2000.
+
+!!Business activity statement (BAS):!! a report that all registered businesses must complete to record and **pay their taxation obligations** to the federal government.
 
 ## State taxes
 
-**Payroll tax** is a tax imposed by state governments based on the total amount that employers pay in wages. It is effectively a tax on employing workers once the employer's total Australian wages bill exceeds the exemption theshold.
+!!Payroll tax!! is a tax imposed by state governments based on the total amount that **employers pay in wages**. It is effectively a tax on employing workers once the employer's total Australian wages bill exceeds the exemption theshold.
 
 Other state taxes that may apply to businesses:
 

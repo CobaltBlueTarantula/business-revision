@@ -37,7 +37,7 @@ The business is already operating and everything associated with it is **include
 - Existing image and policies may be **difficult to change**, especially in the case of a **poor reputation**
 - Success may have been due to the **previous owner's personality and contacts**, which may be lost
 - Value of **goodwill** is **difficult to assess** and introduces the chance of overpaying
-- Some employees may **resist any cahnge** to the business operation
+- Some employees may **resist any change** to the business operation
 - There may be **hidden problems**
 
 ## Purchasing a franchise

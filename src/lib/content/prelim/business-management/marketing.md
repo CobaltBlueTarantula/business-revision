@@ -16,9 +16,11 @@
 
 ### Price
 
-!!Cost-of-production:!! a profit margin or mark-up added to the production cost.<br/>
-!!Demand pricing:!! pricing is based on what consumers are willing to pay.<br/>
-!!Competition-based pricing:!! Competitors' prices are used as a guide.
+There are 3 main pricing methods:
+
+- !!Cost-based:!! a profit margin or mark-up added to the production cost.
+- !!Market-based:!! pricing is based on what consumers are willing to pay.
+- !!Competition-based:!! Competitors' prices are used as a guide.
 
 !!Price penetration:!! lowering prices specifically to attract new customers and decrease competitors' sales.<br/>
 !!Price skimming:!! offering a product at a high price to attract consumers with strongest desires and funds.

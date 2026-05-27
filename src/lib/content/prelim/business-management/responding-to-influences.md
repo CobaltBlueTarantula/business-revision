@@ -33,9 +33,9 @@ A particular business culture may inhibit a business's progress, preventing it f
 
 A business needs to have a flexible structure that can respond quickly to global influences. Managers will use **outsourcing** and **alliances** to **minimise risks** and **maximise opportunities**.
 
-!!Alliances:!! collaborative agreements between two or more independent organizations aimed at achieving mutual goals.<br/>
-!!Strategic alliance:!! a joint venture between firms that is established in order to share resources and thus gain benefits that would otherwise be unachievable.<br/>
-!!Network:!! businesses working together as a group, performing tasks for their mutual benefit.
+!!Alliances:!! **collaborative agreements** between two or more independent organizations aimed at **achieving mutual goals**.<br/>
+!!Strategic alliance:!! a **joint venture** between firms that is established in order to **share resources** and thus gain benefits that would otherwise be unachievable.<br/>
+!!Network:!! businesses **working together as a group**, performing tasks for their **mutual benefit**.
 
 ### !!Outsourcing!!
 
